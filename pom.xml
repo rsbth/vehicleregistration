@@ -8,7 +8,7 @@
   <artifactId>Vehicle Registration</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>Vehicle Registration</name>
+  <name>Vehicle-Registration</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
